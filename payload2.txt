@@ -1,0 +1,36 @@
+{
+	"random": 57,
+	"random float": 14.866,
+	"bool": false,
+	"date": "1989-04-19",
+	"regEx": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo to you",
+	"enum": "online",
+	"firstname": "Catharine",
+	"lastname": "Robertson",
+	"city": "Gaziantep",
+	"country": "Sudan",
+	"countryCode": "CK",
+	"email uses current data": "Catharine.Robertson@gmail.com",
+	"email from expression": "Catharine.Robertson@yopmail.com",
+	"array": [
+		"Kellen",
+		"Orsola",
+		"Ilse",
+		"Sallie",
+		"Kalina"
+	],
+	"array of objects": [
+		{
+			"index": 0,
+			"index start at 5": 5
+		},
+		{
+			"index": 1,
+			"index start at 5": 6
+		},
+		{
+			"index": 2,
+			"index start at 5": 7
+		}
+	]
+}
